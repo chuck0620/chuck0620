@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chuck0620
-- 👀 I’m interested in all kinds of programming languages. Mainly Java and Python, but I'm open to anything.
-- 🌱 I’m currently re-learning SQL.
+- 👀 I’m interested in all kinds of programming languages. Mainly C#, .NET and Python, but I'm open to anything.
+- 🌱 I’m currently learning Angular.
 - 📫 How to reach me: Linkedin: https://www.linkedin.com/in/ádám-horváth-3bb3b5233/
 
 <!---
